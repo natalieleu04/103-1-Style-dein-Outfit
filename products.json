@@ -1,0 +1,1670 @@
+{
+  "female": {
+    "bottoms": [
+      {
+        "id": "f-jeans-w-blau-05",
+        "name": "Straight-Fit Jeans",
+        "cat": "bottoms",
+        "price": 39.99,
+        "color": "#3f5773",
+        "img": "assets/web/women/Jeans/jeans-w-blau-05.png",
+        "imgFig": "assets/fig/women/Jeans/jeans-w-blau-05.png",
+        "url": "https://shop.mango.com/de/de/p/damen/jeans/straight/matilda-high-waist-straight-jeans/27004106/TM/00",
+        "colorname": "blau",
+        "style": "casual",
+        "fit": {
+          "h": 48,
+          "top": 41.5,
+          "cx": 51.5
+        },
+        "sub": "jeans",
+        "subLabel": "Jeans"
+      },
+      {
+        "id": "f-jeans-w-dunkelblau-03",
+        "name": "Wide-Leg Jeans",
+        "cat": "bottoms",
+        "price": 25.99,
+        "color": "#2b3a52",
+        "img": "assets/web/women/Jeans/jeans-w-dunkelblau-03.png",
+        "imgFig": "assets/fig/women/Jeans/jeans-w-dunkelblau-03.png",
+        "url": "https://shop.mango.com/de/de/p/damen/jeans/plus-großen/danila-high-waist-wide-leg-jeans/27011204/TS/00",
+        "colorname": "dunkelblau",
+        "style": "casual",
+        "fit": {
+          "h": 46,
+          "top": 39.5,
+          "cx": 51.5
+        },
+        "sub": "jeans",
+        "subLabel": "Jeans"
+      },
+      {
+        "id": "f-jeans-w-hellblau-02",
+        "name": "Straight-Fit Jeans",
+        "cat": "bottoms",
+        "price": 39.99,
+        "color": "#a9c3dc",
+        "img": "assets/web/women/Jeans/jeans-w-hellblau-02.png",
+        "imgFig": "assets/fig/women/Jeans/jeans-w-hellblau-02.png",
+        "url": "https://shop.mango.com/de/de/p/damen/jeans/straight/gerade-jeans-mit-niedriger-bundhohe/27034076/TM/00",
+        "colorname": "hellblau",
+        "style": "casual",
+        "fit": {
+          "h": 45,
+          "top": 39.5,
+          "cx": 51.5
+        },
+        "sub": "jeans",
+        "subLabel": "Jeans"
+      },
+      {
+        "id": "f-jeans-w-washedhellblau-04",
+        "name": "Baggy Jeans",
+        "cat": "bottoms",
+        "price": 39.99,
+        "color": "#9fb4ca",
+        "img": "assets/web/women/Jeans/jeans-w-washedhellblau-04.png",
+        "imgFig": "assets/fig/women/Jeans/jeans-w-washedhellblau-04.png",
+        "url": "https://shop.mango.com/de/de/p/damen/jeans/balloon/balloon-jeans-mit-mittlerer-bundhohe/27027141/TM/00",
+        "colorname": "washed-hellblau",
+        "style": "casual",
+        "fit": {
+          "h": 48,
+          "cx": 52,
+          "top": 40
+        },
+        "sub": "jeans",
+        "subLabel": "Jeans"
+      },
+      {
+        "id": "f-jeans-w-wei-01",
+        "name": "Wide-Leg Jeans",
+        "cat": "bottoms",
+        "price": 39.99,
+        "color": "#f3f1ec",
+        "img": "assets/web/women/Jeans/jeans-w-weiß-01.png",
+        "imgFig": "assets/fig/women/Jeans/jeans-w-weiß-01.png",
+        "url": "https://shop.mango.com/de/de/p/damen/jeans/wide-leg/weit-geschnittene-wide-leg-jeans-mit-niedrigem-bund/37061374/01/00",
+        "colorname": "weiß",
+        "style": "casual",
+        "fit": {
+          "cx": 51.5,
+          "h": 47,
+          "top": 39.5
+        },
+        "sub": "jeans",
+        "subLabel": "Jeans"
+      },
+      {
+        "id": "f-rock-w-blau-punkte-01",
+        "name": "Midirock mit Punktemuster",
+        "cat": "bottoms",
+        "price": 49.99,
+        "color": "#3f5773",
+        "img": "assets/web/women/Rock/rock-w-blau_punkte-01.png",
+        "imgFig": "assets/fig/women/Rock/rock-w-blau_punkte-01.png",
+        "url": "https://shop.mango.com/de/de/p/damen/rocke/lange-rocke/asymmetrischer-rock-mit-punktmuster/37061482/56/00",
+        "colorname": "blau (gepunktet)",
+        "style": "office",
+        "dots": true,
+        "skirt": true,
+        "fit": {
+          "h": 50,
+          "cx": 51.5,
+          "top": 39
+        },
+        "sub": "roecke",
+        "subLabel": "Röcke"
+      },
+      {
+        "id": "f-rock-w-braun-03",
+        "name": "Wickelrock kurz",
+        "cat": "bottoms",
+        "price": 39.99,
+        "color": "#7a5a40",
+        "img": "assets/web/women/Rock/rock-w-braun-03.png",
+        "imgFig": "assets/fig/women/Rock/rock-w-braun-03.png",
+        "url": "https://shop.mango.com/de/de/p/damen/rocke/minirocke/hosenrock-aus-leinen/27077928/32/00",
+        "colorname": "braun",
+        "style": "office",
+        "skirt": true,
+        "fit": {
+          "h": 17,
+          "top": 39.5,
+          "cx": 51
+        },
+        "sub": "roecke",
+        "subLabel": "Röcke"
+      },
+      {
+        "id": "f-rock-w-creme-04",
+        "name": "Wickel-Midirock",
+        "cat": "bottoms",
+        "price": 59.99,
+        "color": "#ece4d2",
+        "img": "assets/web/women/Rock/rock-w-creme-04.png",
+        "imgFig": "assets/fig/women/Rock/rock-w-creme-04.png",
+        "url": "https://shop.mango.com/de/de/p/damen/rocke/midi-rocke/godet-rock-mit-ledereffekt/27093336/05/00",
+        "colorname": "creme",
+        "style": "office",
+        "skirt": true,
+        "fit": {
+          "h": 45,
+          "top": 39.5,
+          "cx": 52.5
+        },
+        "sub": "roecke",
+        "subLabel": "Röcke"
+      },
+      {
+        "id": "f-rock-w-grau-02",
+        "name": "Satin-Maxirock",
+        "cat": "bottoms",
+        "price": 170.0,
+        "color": "#9a9a9a",
+        "img": "assets/web/women/Rock/rock-w-grau-02.png",
+        "imgFig": "assets/fig/women/Rock/rock-w-grau-02.png",
+        "url": "https://shop.mango.com/de/de/p/damen/rocke/lange-rocke/satinierter-maxirock/37071457/PL/00",
+        "colorname": "grau",
+        "style": "office",
+        "skirt": true,
+        "fit": {
+          "h": 56,
+          "cx": 51.5,
+          "top": 40.5
+        },
+        "sub": "roecke",
+        "subLabel": "Röcke"
+      },
+      {
+        "id": "f-rock-w-schwarz-04",
+        "name": "Wickelrock kurz",
+        "cat": "bottoms",
+        "price": 39.99,
+        "color": "#1f1f1f",
+        "img": "assets/web/women/Rock/rock-w-schwarz-04.png",
+        "imgFig": "assets/fig/women/Rock/rock-w-schwarz-04.png",
+        "url": "https://shop.mango.com/de/de/p/damen/rocke/hosenrock-in-wickel-optik/27094095/99/00",
+        "colorname": "schwarz",
+        "style": "office",
+        "skirt": true,
+        "fit": {
+          "h": 17,
+          "top": 39,
+          "cx": 51
+        },
+        "sub": "roecke",
+        "subLabel": "Röcke"
+      },
+      {
+        "id": "f-shorts-w-beige-punkte-03",
+        "name": "Stoffshorts mit Punktemuster",
+        "cat": "bottoms",
+        "price": 39.99,
+        "color": "#d8c7a8",
+        "img": "assets/web/women/Shorts/shorts-w-beige_punkte-03.png",
+        "imgFig": "assets/fig/women/Shorts/shorts-w-beige_punkte-03.png",
+        "url": "https://shop.mango.com/de/de/p/damen/shorts-und-bermudas/casual/baumwollshorts-mit-tupfen/27087142/05/00",
+        "colorname": "beige (gepunktet)",
+        "style": "casual",
+        "dots": true,
+        "fit": {
+          "h": 15,
+          "top": 38.5,
+          "cx": 51
+        },
+        "sub": "shorts",
+        "subLabel": "Shorts"
+      },
+      {
+        "id": "f-shorts-w-braun-05",
+        "name": "Satin-Shorts",
+        "cat": "bottoms",
+        "price": 45.99,
+        "color": "#7a5a40",
+        "img": "assets/web/women/Shorts/shorts-w-braun-05.png",
+        "imgFig": "assets/fig/women/Shorts/shorts-w-braun-05.png",
+        "url": "https://shop.mango.com/de/de/p/damen/shorts-und-bermudas/formal/gerade-shorts-mit-spitzendetails/37051386/30/00",
+        "colorname": "braun",
+        "style": "casual",
+        "fit": {
+          "h": 15,
+          "cx": 51,
+          "top": 38
+        },
+        "sub": "shorts",
+        "subLabel": "Shorts"
+      },
+      {
+        "id": "f-shorts-w-hellblau-02",
+        "name": "Jeansshorts",
+        "cat": "bottoms",
+        "price": 25.99,
+        "color": "#a9c3dc",
+        "img": "assets/web/women/Shorts/shorts-w-hellblau-02.png",
+        "imgFig": "assets/fig/women/Shorts/shorts-w-hellblau-02.png",
+        "url": "https://shop.mango.com/de/de/p/damen/shorts-und-bermudas/casual/jeansshorts-mit-ausgefranstem-saum/27043281/TM/00",
+        "colorname": "hellblau",
+        "style": "casual",
+        "fit": {
+          "h": 18,
+          "top": 38,
+          "cx": 51
+        },
+        "sub": "shorts",
+        "subLabel": "Shorts"
+      },
+      {
+        "id": "f-shorts-w-hellblau-streifen-04",
+        "name": "Leinen-Shorts",
+        "cat": "bottoms",
+        "price": 45.99,
+        "color": "#a9c3dc",
+        "img": "assets/web/women/Shorts/shorts-w-hellblau_streifen-04.png",
+        "imgFig": "assets/fig/women/Shorts/shorts-w-hellblau_streifen-04.png",
+        "url": "https://shop.mango.com/de/de/p/damen/shorts-und-bermudas/casual/lyocell-shorts-mit-streifen/27089066/50/00",
+        "colorname": "hellblau (gestreift)",
+        "style": "casual",
+        "stripe": true,
+        "fit": {
+          "h": 16,
+          "top": 37.5,
+          "cx": 51
+        },
+        "sub": "shorts",
+        "subLabel": "Shorts"
+      },
+      {
+        "id": "f-shorts-w-wei-01",
+        "name": "Jeansshorts",
+        "cat": "bottoms",
+        "price": 29.99,
+        "color": "#f3f1ec",
+        "img": "assets/web/women/Shorts/shorts-w-weiß-01.png",
+        "imgFig": "assets/fig/women/Shorts/shorts-w-weiß-01.png",
+        "url": "https://shop.mango.com/de/de/p/damen/shorts-und-bermudas/casual/gerade-jeans-shorts/37091333/01/00",
+        "colorname": "weiß",
+        "style": "casual",
+        "fit": {
+          "h": 16,
+          "top": 37.5,
+          "cx": 50.5
+        },
+        "sub": "shorts",
+        "subLabel": "Shorts"
+      },
+      {
+        "id": "f-stoffhose-w-braun-01",
+        "name": "Stoffhose mit Gürtel",
+        "cat": "bottoms",
+        "price": 45.99,
+        "color": "#7a5a40",
+        "img": "assets/web/women/Stoffhose/stoffhose-w-braun-01.png",
+        "imgFig": "assets/fig/women/Stoffhose/stoffhose-w-braun-01.png",
+        "url": "https://shop.mango.com/de/de/p/damen/hosen/straight/gerade-hose-mit-gurtel/37081466/32/00",
+        "colorname": "braun",
+        "style": "office",
+        "fit": {
+          "h": 47,
+          "top": 39,
+          "cx": 51
+        },
+        "sub": "stoffhosen",
+        "subLabel": "Stoffhosen"
+      },
+      {
+        "id": "f-stoffhose-w-creme-03",
+        "name": "Stoffhose mit Knotendetail",
+        "cat": "bottoms",
+        "price": 29.99,
+        "color": "#ece4d2",
+        "img": "assets/web/women/Stoffhose/stoffhose-w-creme-03.png",
+        "imgFig": "assets/fig/women/Stoffhose/stoffhose-w-creme-03.png",
+        "url": "https://shop.mango.com/de/de/p/damen/hosen/casual/gerade-hose-mit-mittlerem-bund/37091430/05/00",
+        "colorname": "creme",
+        "style": "office",
+        "fit": {
+          "h": 46,
+          "top": 39.5,
+          "cx": 52
+        },
+        "sub": "stoffhosen",
+        "subLabel": "Stoffhosen"
+      },
+      {
+        "id": "f-stoffhose-w-schwarz-02",
+        "name": "Marlene-Hose",
+        "cat": "bottoms",
+        "price": 29.99,
+        "color": "#1f1f1f",
+        "img": "assets/web/women/Stoffhose/stoffhose-w-schwarz-02.png",
+        "imgFig": "assets/fig/women/Stoffhose/stoffhose-w-schwarz-02.png",
+        "url": "https://shop.mango.com/de/de/p/damen/hosen/casual/gerade-hose-mit-stretchbund/27075835/99/00",
+        "colorname": "schwarz",
+        "style": "office",
+        "fit": {
+          "h": 46,
+          "top": 38.5,
+          "cx": 50.5
+        },
+        "sub": "stoffhosen",
+        "subLabel": "Stoffhosen"
+      },
+      {
+        "id": "f-stoffhose-w-schwarz-rock-04",
+        "name": "Stoffhose mit Rock-Layer",
+        "cat": "bottoms",
+        "price": 59.99,
+        "color": "#1f1f1f",
+        "img": "assets/web/women/Stoffhose/stoffhose-w-schwarz_rock-04.png",
+        "imgFig": "assets/fig/women/Stoffhose/stoffhose-w-schwarz_rock-04.png",
+        "url": "https://shop.mango.com/de/de/p/damen/hosen/anzughose/lyocell-hose-mit-hohem-bund/27058665/99/00",
+        "colorname": "schwarz",
+        "style": "office",
+        "skirt": true,
+        "fit": {
+          "h": 47,
+          "top": 39,
+          "cx": 51.5
+        },
+        "sub": "stoffhosen",
+        "subLabel": "Stoffhosen"
+      },
+      {
+        "id": "f-stoffhose-w-ziegelrot-05",
+        "name": "Weite Stoffhose",
+        "cat": "bottoms",
+        "price": 35.99,
+        "color": "#a8503a",
+        "img": "assets/web/women/Stoffhose/stoffhose-w-ziegelrot-05.png",
+        "imgFig": "assets/fig/women/Stoffhose/stoffhose-w-ziegelrot-05.png",
+        "url": "https://shop.mango.com/https://shop.mango.com/de/de/p/damen/hosen/straight/palazzohose-mit-hohem-bund/27035831/70/00",
+        "colorname": "ziegelrot",
+        "style": "office",
+        "fit": {
+          "h": 46,
+          "top": 38.5,
+          "cx": 51.5
+        },
+        "sub": "stoffhosen",
+        "subLabel": "Stoffhosen"
+      }
+    ],
+    "dress": [
+      {
+        "id": "f-kleid-w-beige-03",
+        "name": "Volantkleid mit Punktemuster",
+        "cat": "dress",
+        "price": 49.99,
+        "color": "#d8c7a8",
+        "img": "assets/web/women/Kleid/kleid-w-beige-03.png",
+        "imgFig": "assets/fig/women/Kleid/kleid-w-beige-03.png",
+        "url": "https://shop.mango.com/de/de/p/damen/kleider-und-overalls/kleider/halterkleid-mit-polka-dots/37071482/05/00",
+        "colorname": "beige",
+        "style": "party",
+        "dress": true,
+        "fit": {
+          "h": 38,
+          "top": 13,
+          "cx": 51.5
+        },
+        "sub": "kleider",
+        "subLabel": "Kleider"
+      },
+      {
+        "id": "f-kleid-w-braun-04",
+        "name": "Slip-on-Dress mit Spitze",
+        "cat": "dress",
+        "price": 79.99,
+        "color": "#7a5a40",
+        "img": "assets/web/women/Kleid/kleid-w-braun-04.png",
+        "imgFig": "assets/fig/women/Kleid/kleid-w-braun-04.png",
+        "url": "https://shop.mango.com/de/de/p/damen/kleider-und-overalls/hochzeitsgast/asymmetrisches-satin-kleid-mit-spitze/27009087/32/00",
+        "colorname": "braun",
+        "style": "party",
+        "dress": true,
+        "fit": {
+          "h": 51,
+          "cx": 51.5,
+          "top": 14
+        },
+        "sub": "kleider",
+        "subLabel": "Kleider"
+      },
+      {
+        "id": "f-kleid-w-creme-05",
+        "name": "One-Shoulder-Kleid",
+        "cat": "dress",
+        "price": 39.99,
+        "color": "#ece4d2",
+        "img": "assets/web/women/Kleid/kleid-w-creme-05.png",
+        "imgFig": "assets/fig/women/Kleid/kleid-w-creme-05.png",
+        "url": "https://shop.mango.com/de/de/p/damen/kleider-und-overalls/kleider/asymmetrisches-kleid-mit-drapiertem-detail-am-kragen/37001407/02/00",
+        "colorname": "creme",
+        "style": "party",
+        "dress": true,
+        "fit": {
+          "h": 35,
+          "top": 13
+        },
+        "sub": "kleider",
+        "subLabel": "Kleider"
+      },
+      {
+        "id": "f-kleid-w-hellgru-n-02",
+        "name": "Spitzen-Kleid",
+        "cat": "dress",
+        "price": 89.99,
+        "color": "#cccccc",
+        "img": "assets/web/women/Kleid/kleid-w-hellgrün-02.png",
+        "imgFig": "assets/fig/women/Kleid/kleid-w-hellgrün-02.png",
+        "url": "https://shop.mango.com/de/de/p/damen/kleider-und-overalls/kleider/kleid-mit-gestickten-details/27007160/40/00",
+        "colorname": "hellgrün",
+        "style": "party",
+        "dress": true,
+        "fit": {
+          "h": 49,
+          "top": 14.5,
+          "cx": 51
+        },
+        "sub": "kleider",
+        "subLabel": "Kleider"
+      },
+      {
+        "id": "f-kleid-w-rot-01",
+        "name": "Asymmetrisches One-Shoulder-Kleid",
+        "cat": "dress",
+        "price": 69.99,
+        "color": "#9d2b27",
+        "img": "assets/web/women/Kleid/kleid-w-rot-01.png",
+        "imgFig": "assets/fig/women/Kleid/kleid-w-rot-01.png",
+        "url": "https://shop.mango.com/de/de/p/damen/kleider-und-overalls/hochzeitsgast/asymmetrisches-foulard-kleid/37061468/70/00",
+        "colorname": "rot",
+        "style": "party",
+        "dress": true,
+        "fit": {
+          "cx": 51.5,
+          "top": 13,
+          "h": 60
+        },
+        "sub": "kleider",
+        "subLabel": "Kleider"
+      }
+    ],
+    "tops": [
+      {
+        "id": "f-bluse-w-beige-03",
+        "name": "Ärmellose Bluse",
+        "cat": "tops",
+        "price": 89.99,
+        "color": "#d8c7a8",
+        "img": "assets/web/women/Bluse/bluse-w-beige-03.png",
+        "imgFig": "assets/fig/women/Bluse/bluse-w-beige-03.png",
+        "url": "https://shop.mango.com/de/de/p/damen/hemden-und-blusen/blusen/bluse-aus-100--seide-mit-schalkragen/27024097/05/00",
+        "colorname": "beige",
+        "style": "office",
+        "fit": {
+          "cx": 51,
+          "top": 11.5,
+          "w": 40
+        },
+        "sub": "blusen",
+        "subLabel": "Blusen"
+      },
+      {
+        "id": "f-bluse-w-dunkelblau-05",
+        "name": "Langarmbluse",
+        "cat": "tops",
+        "price": 39.99,
+        "color": "#2b3a52",
+        "img": "assets/web/women/Bluse/bluse-w-dunkelblau-05.png",
+        "imgFig": "assets/fig/women/Bluse/bluse-w-dunkelblau-05.png",
+        "url": "https://shop.mango.com/de/de/p/damen/hemden-und-blusen/blusen/gestreifte-bluse-mit-schleifenkragen/27074080/56/00",
+        "colorname": "dunkelblau",
+        "style": "office",
+        "fit": {
+          "w": 57,
+          "cx": 51,
+          "top": 11.5
+        },
+        "sub": "blusen",
+        "subLabel": "Blusen"
+      },
+      {
+        "id": "f-bluse-w-hellblau-01",
+        "name": "Puffärmel-Bluse",
+        "cat": "tops",
+        "price": 45.99,
+        "color": "#a9c3dc",
+        "img": "assets/web/women/Bluse/bluse-w-hellblau-01.png",
+        "imgFig": "assets/fig/women/Bluse/bluse-w-hellblau-01.png",
+        "url": "https://shop.mango.com/de/de/p/damen/hemden-und-blusen/blusen/bestickte-bluse-mit-ballonarmel/37092901/50/00",
+        "colorname": "hellblau",
+        "style": "office",
+        "fit": {
+          "w": 57,
+          "top": 12,
+          "cx": 51
+        },
+        "sub": "blusen",
+        "subLabel": "Blusen"
+      },
+      {
+        "id": "f-bluse-w-schwarz-04",
+        "name": "Drapierte Bluse",
+        "cat": "tops",
+        "price": 29.99,
+        "color": "#1f1f1f",
+        "img": "assets/web/women/Bluse/bluse-w-schwarz-04.png",
+        "imgFig": "assets/fig/women/Bluse/bluse-w-schwarz-04.png",
+        "url": "https://shop.mango.com/de/de/p/damen/hemden-und-blusen/blusen/bluse-mit-asymmetrischem-ausschnitt/27044084/99/00",
+        "colorname": "schwarz",
+        "style": "office",
+        "fit": {
+          "cx": 52,
+          "w": 67
+        },
+        "sub": "blusen",
+        "subLabel": "Blusen"
+      },
+      {
+        "id": "f-bluse-w-streifen-02",
+        "name": "Rüschenbluse",
+        "cat": "tops",
+        "price": 45.99,
+        "color": "#cfd8e2",
+        "img": "assets/web/women/Bluse/bluse-w-streifen-02.png",
+        "imgFig": "assets/fig/women/Bluse/bluse-w-streifen-02.png",
+        "url": "https://shop.mango.com/de/de/p/damen/hemden-und-blusen/blusen/gestreifte-bluse-mit-volantdetails/27077941/52/00",
+        "colorname": "gestreift",
+        "style": "office",
+        "stripe": true,
+        "fit": {
+          "w": 63,
+          "cx": 50,
+          "top": 11
+        },
+        "sub": "blusen",
+        "subLabel": "Blusen"
+      },
+      {
+        "id": "f-tshirt-w-braun-streifen-02",
+        "name": "Langarmshirt",
+        "cat": "tops",
+        "price": 22.99,
+        "color": "#7a5a40",
+        "img": "assets/web/women/T-Shirt/tshirt-w-braun_streifen-02.png",
+        "imgFig": "assets/fig/women/T-Shirt/tshirt-w-braun_streifen-02.png",
+        "url": "https://shop.mango.com/de/de/p/damen/t-shirts/langarm/langarmliges-t-shirt-mit-streifen/27034095/30/00",
+        "colorname": "braun (gestreift)",
+        "style": "casual",
+        "stripe": true,
+        "fit": {
+          "w": 49,
+          "top": 14,
+          "cx": 51.5
+        },
+        "sub": "tshirts",
+        "subLabel": "T-Shirts"
+      },
+      {
+        "id": "f-tshirt-w-olive-03",
+        "name": "T-Shirt mit Raffung",
+        "cat": "tops",
+        "price": 22.99,
+        "color": "#6f6f48",
+        "img": "assets/web/women/T-Shirt/tshirt-w-olive-03.png",
+        "imgFig": "assets/fig/women/T-Shirt/tshirt-w-olive-03.png",
+        "url": "https://shop.mango.com/de/de/p/damen/t-shirts/basics/t-shirt-mit-raffdetails/27065835/37/00",
+        "colorname": "olive",
+        "style": "casual",
+        "fit": {
+          "cx": 51.5,
+          "w": 38,
+          "top": 13
+        },
+        "sub": "tshirts",
+        "subLabel": "T-Shirts"
+      },
+      {
+        "id": "f-tshirt-w-rosa-04",
+        "name": "Zweilagiges T-Shirt",
+        "cat": "tops",
+        "price": 22.99,
+        "color": "#e3b6bd",
+        "img": "assets/web/women/T-Shirt/tshirt-w-rosa-04.png",
+        "imgFig": "assets/fig/women/T-Shirt/tshirt-w-rosa-04.png",
+        "url": "https://shop.mango.com/de/de/p/damen/t-shirts/basics/zweifarbiges-kombi-t-shirt/37041496/85/00",
+        "colorname": "rosa",
+        "style": "casual",
+        "fit": {
+          "w": 51,
+          "cx": 51.5
+        },
+        "sub": "tshirts",
+        "subLabel": "T-Shirts"
+      },
+      {
+        "id": "f-tshirt-w-rot-streifen-01",
+        "name": "Ringel-T-Shirt",
+        "cat": "tops",
+        "price": 29.99,
+        "color": "#9d2b27",
+        "img": "assets/web/women/T-Shirt/tshirt-w-rot_streifen-01.png",
+        "imgFig": "assets/fig/women/T-Shirt/tshirt-w-rot_streifen-01.png",
+        "url": "https://shop.mango.com/de/de/p/damen/t-shirts/basics/kurzarmliges-streifen-t-shirt/27024088/81/00",
+        "colorname": "rot (gestreift)",
+        "style": "casual",
+        "stripe": true,
+        "fit": {
+          "w": 56,
+          "cx": 51.5,
+          "top": 13.5
+        },
+        "sub": "tshirts",
+        "subLabel": "T-Shirts"
+      },
+      {
+        "id": "f-tshirt-w-wei-05",
+        "name": "Basic T-Shirt",
+        "cat": "tops",
+        "price": 15.99,
+        "color": "#f3f1ec",
+        "img": "assets/web/women/T-Shirt/tshirt-w-weiß-05.png",
+        "imgFig": "assets/fig/women/T-Shirt/tshirt-w-weiß-05.png",
+        "url": "https://shop.mango.com/de/de/p/damen/t-shirts/basics/t-shirt-aus-100--baumwolle/37091331/01/00",
+        "colorname": "weiß",
+        "style": "casual",
+        "fit": {
+          "w": 52,
+          "cx": 51.5,
+          "top": 13
+        },
+        "sub": "tshirts",
+        "subLabel": "T-Shirts"
+      },
+      {
+        "id": "f-top-w-braun-04",
+        "name": "Tank-Top",
+        "cat": "tops",
+        "price": 22.99,
+        "color": "#7a5a40",
+        "img": "assets/web/women/Top/top-w-braun-04.png",
+        "imgFig": "assets/fig/women/Top/top-w-braun-04.png",
+        "url": "https://shop.mango.com/de/de/p/damen/tops/basics/figurbetontes-feinstrick-top/27087151/32/00",
+        "colorname": "braun",
+        "style": "casual",
+        "fit": {
+          "w": 27,
+          "top": 14.5,
+          "cx": 51.5
+        },
+        "sub": "tops",
+        "subLabel": "Tops"
+      },
+      {
+        "id": "f-top-w-creme-05",
+        "name": "Bandeau-Top",
+        "cat": "tops",
+        "price": 45.99,
+        "color": "#ece4d2",
+        "img": "assets/web/women/Top/top-w-creme-05.png",
+        "imgFig": "assets/fig/women/Top/top-w-creme-05.png",
+        "url": "https://shop.mango.com/de/de/p/damen/tops/basics/schulterfreies-top-aus-leinen/37091416/02/00",
+        "colorname": "creme",
+        "style": "casual",
+        "fit": {
+          "w": 31,
+          "top": 22,
+          "cx": 51.5
+        },
+        "sub": "tops",
+        "subLabel": "Tops"
+      },
+      {
+        "id": "f-top-w-rosa-02",
+        "name": "Top mit Raffung",
+        "cat": "tops",
+        "price": 22.99,
+        "color": "#e3b6bd",
+        "img": "assets/web/women/Top/top-w-rosa-02.png",
+        "imgFig": "assets/fig/women/Top/top-w-rosa-02.png",
+        "url": "https://shop.mango.com/de/de/p/damen/tops/tailliertes--gerafftes-top/37021387/81/00",
+        "colorname": "rosa",
+        "style": "casual",
+        "fit": {
+          "w": 30,
+          "top": 14.5,
+          "cx": 51.5
+        },
+        "sub": "tops",
+        "subLabel": "Tops"
+      },
+      {
+        "id": "f-top-w-rot-01",
+        "name": "Träger-Top",
+        "cat": "tops",
+        "price": 29.99,
+        "color": "#9d2b27",
+        "img": "assets/web/women/Top/top-w-rot-01.png",
+        "imgFig": "assets/fig/women/Top/top-w-rot-01.png",
+        "url": "https://shop.mango.com/de/de/p/damen/tops/basics/leinen-crop-top/37071452/70/00",
+        "colorname": "rot",
+        "style": "casual",
+        "fit": {
+          "w": 27,
+          "cx": 51
+        },
+        "sub": "tops",
+        "subLabel": "Tops"
+      },
+      {
+        "id": "f-top-w-schwarz-03",
+        "name": "Top mit Nieten",
+        "cat": "tops",
+        "price": 29.99,
+        "color": "#1f1f1f",
+        "img": "assets/web/women/Top/top-w-schwarz-03.png",
+        "imgFig": "assets/fig/women/Top/top-w-schwarz-03.png",
+        "url": "https://shop.mango.com/de/de/p/damen/tops/party/tragertop-mit-nieten-details/37001391/99/00",
+        "colorname": "schwarz",
+        "style": "casual",
+        "fit": {
+          "w": 27,
+          "cx": 51.5
+        },
+        "sub": "tops",
+        "subLabel": "Tops"
+      },
+      {
+        "id": "f-pullover-w-braun-02",
+        "name": "Rundhalspullover",
+        "cat": "tops",
+        "price": 49.99,
+        "color": "#7a5a40",
+        "img": "assets/web/women/Pullover/pullover-w-braun-02.png",
+        "imgFig": "assets/fig/women/Pullover/pullover-w-braun-02.png",
+        "url": "https://shop.mango.com/de/de/p/damen/pullover-und-cardigans/pullover/rundhals-strickjersey/27013343/77/00",
+        "colorname": "braun",
+        "style": "casual",
+        "fit": {
+          "w": 61,
+          "top": 13.5,
+          "cx": 50.5
+        },
+        "sub": "pullover",
+        "subLabel": "Pullover"
+      },
+      {
+        "id": "f-pullover-w-creme-05",
+        "name": "Stehkragenpullover",
+        "cat": "tops",
+        "price": 39.99,
+        "color": "#ece4d2",
+        "img": "assets/web/women/Pullover/pullover-w-creme-05.png",
+        "imgFig": "assets/fig/women/Pullover/pullover-w-creme-05.png",
+        "url": "https://shop.mango.com/de/de/p/damen/pullover-und-cardigans/pullover/pullover-mit-stehkragen-und-kontrastierenden-streifen/27033300/05/00",
+        "colorname": "creme",
+        "style": "casual",
+        "fit": {
+          "w": 63,
+          "top": 12.5,
+          "cx": 51.5
+        },
+        "sub": "pullover",
+        "subLabel": "Pullover"
+      },
+      {
+        "id": "f-pullover-w-dunkelgru-n-04",
+        "name": "Stehkragenpullover",
+        "cat": "tops",
+        "price": 39.99,
+        "color": "#cccccc",
+        "img": "assets/web/women/Pullover/pullover-w-dunkelgrün-04.png",
+        "imgFig": "assets/fig/women/Pullover/pullover-w-dunkelgrün-04.png",
+        "url": "https://shop.mango.com/de/de/p/damen/pullover-und-cardigans/plus-großen/strickpullover-mit-halbhohem-kragen/27091224/49/00",
+        "colorname": "dunkelgrün",
+        "style": "casual",
+        "fit": {
+          "w": 63,
+          "top": 13,
+          "cx": 51.5
+        },
+        "sub": "pullover",
+        "subLabel": "Pullover"
+      },
+      {
+        "id": "f-pullover-w-grau-03",
+        "name": "Polokragen-Pullover",
+        "cat": "tops",
+        "price": 45.99,
+        "color": "#9a9a9a",
+        "img": "assets/web/women/Pullover/pullover-w-grau-03.png",
+        "imgFig": "assets/fig/women/Pullover/pullover-w-grau-03.png",
+        "url": "https://shop.mango.com/de/de/p/damen/pullover-und-cardigans/pullover/gerippter-pullover-mit-poloshirt-kragen/27021309/06/00",
+        "colorname": "grau",
+        "style": "casual",
+        "fit": {
+          "w": 70,
+          "top": 13,
+          "cx": 51.5
+        },
+        "sub": "pullover",
+        "subLabel": "Pullover"
+      },
+      {
+        "id": "f-pullover-w-schwarz-wei-01",
+        "name": "Colour-Block-Pullover",
+        "cat": "tops",
+        "price": 39.99,
+        "color": "#3a3a3a",
+        "img": "assets/web/women/Pullover/pullover-w-schwarz_weiß-01.png",
+        "imgFig": "assets/fig/women/Pullover/pullover-w-schwarz_weiß-01.png",
+        "url": "https://shop.mango.com/de/de/p/damen/pullover-und-cardigans/pullover/zweifarbiger-rollkragenpullover/27031265/56/00",
+        "colorname": "schwarz/weiß",
+        "style": "casual",
+        "fit": {
+          "w": 70,
+          "top": 13,
+          "cx": 52
+        },
+        "sub": "pullover",
+        "subLabel": "Pullover"
+      }
+    ],
+    "outer": [
+      {
+        "id": "f-jacke-w-beige-05",
+        "name": "Kurze Hemdjacke",
+        "cat": "outer",
+        "price": 79.99,
+        "color": "#d8c7a8",
+        "img": "assets/web/women/Jacke/jacke-w-beige-05.png",
+        "imgFig": "assets/fig/women/Jacke/jacke-w-beige-05.png",
+        "url": "https://shop.mango.com/de/de/p/damen/jacken/kurzer-oversize-trench/27054774/08/00",
+        "colorname": "beige",
+        "style": "casual",
+        "fit": {
+          "w": 67,
+          "cx": 51.5,
+          "top": 12.5
+        },
+        "sub": "jacken",
+        "subLabel": "Jacken"
+      },
+      {
+        "id": "f-jacke-w-braun-04",
+        "name": "Bikerjacke aus Leder",
+        "cat": "outer",
+        "price": 89.99,
+        "color": "#7a5a40",
+        "img": "assets/web/women/Jacke/jacke-w-braun-04.png",
+        "imgFig": "assets/fig/women/Jacke/jacke-w-braun-04.png",
+        "url": "https://shop.mango.com/de/de/p/damen/jacken/kunstleder/maxi-jacke-mit-lederoptik-kragen/27074433/76/00",
+        "colorname": "braun",
+        "style": "casual",
+        "fit": {
+          "w": 78,
+          "top": 12.5,
+          "cx": 50.5
+        },
+        "sub": "jacken",
+        "subLabel": "Jacken"
+      },
+      {
+        "id": "f-jacke-w-creme-03",
+        "name": "Jeansjacke",
+        "cat": "outer",
+        "price": 39.99,
+        "color": "#ece4d2",
+        "img": "assets/web/women/Jacke/jacke-w-creme-03.png",
+        "imgFig": "assets/fig/women/Jacke/jacke-w-creme-03.png",
+        "url": "https://shop.mango.com/de/de/p/damen/jacken/jeans/jeansjacke-mit-taschen/37061361/05/00",
+        "colorname": "creme",
+        "style": "casual",
+        "fit": {
+          "w": 70,
+          "cx": 51.5,
+          "top": 12
+        },
+        "sub": "jacken",
+        "subLabel": "Jacken"
+      },
+      {
+        "id": "f-jacke-w-schwarz-02",
+        "name": "Jacke mit Bindegürtel",
+        "cat": "outer",
+        "price": 89.99,
+        "color": "#1f1f1f",
+        "img": "assets/web/women/Jacke/jacke-w-schwarz-02.png",
+        "imgFig": "assets/fig/women/Jacke/jacke-w-schwarz-02.png",
+        "url": "https://shop.mango.com/de/de/p/damen/jacken/leinen/leinenjacke-mit-gurtel/27097138/99/00",
+        "colorname": "schwarz",
+        "style": "casual",
+        "fit": {
+          "w": 72,
+          "top": 12.5,
+          "cx": 51.5
+        },
+        "sub": "jacken",
+        "subLabel": "Jacken"
+      },
+      {
+        "id": "f-jacke-w-taupe-01",
+        "name": "Kurze Tweed-Jacke",
+        "cat": "outer",
+        "price": 79.99,
+        "color": "#b3a695",
+        "img": "assets/web/women/Jacke/jacke-w-taupe-01.png",
+        "imgFig": "assets/fig/women/Jacke/jacke-w-taupe-01.png",
+        "url": "https://shop.mango.com/de/de/p/damen/jacken/bombers/karierte-bomberjacke/27026363/06/00",
+        "colorname": "taupe",
+        "style": "casual",
+        "fit": {
+          "w": 68,
+          "top": 12,
+          "cx": 51.5
+        },
+        "sub": "jacken",
+        "subLabel": "Jacken"
+      }
+    ]
+  },
+  "male": {
+    "bottoms": [
+      {
+        "id": "m-anzughose-m-beige-05",
+        "name": "Anzughose Slim Fit",
+        "cat": "bottoms",
+        "price": 69.99,
+        "color": "#d8c7a8",
+        "img": "assets/web/men/Anzughose/anzughose-m-beige-05.png",
+        "imgFig": "assets/fig/men/Anzughose/anzughose-m-beige-05.png",
+        "url": "https://shop.mango.com/de/de/p/herren/hosen/anzug/slim-fit-anzughose-amalfi-aus-100--leinen/37091389/05/00",
+        "colorname": "beige",
+        "style": "office",
+        "fit": {
+          "h": 43,
+          "top": 43,
+          "cx": 50
+        },
+        "sub": "anzughosen",
+        "subLabel": "Anzughosen"
+      },
+      {
+        "id": "m-anzughose-m-braun-04",
+        "name": "Anzughose mit Bundfalte",
+        "cat": "bottoms",
+        "price": 69.99,
+        "color": "#7a5a40",
+        "img": "assets/web/men/Anzughose/anzughose-m-braun-04.png",
+        "imgFig": "assets/fig/men/Anzughose/anzughose-m-braun-04.png",
+        "url": "https://shop.mango.com/de/de/p/herren/hosen/leinen/lyocell-leinen-mix-anzughose/37021372/30/00",
+        "colorname": "braun",
+        "style": "office",
+        "fit": {
+          "h": 42,
+          "top": 42.5,
+          "cx": 50.5
+        },
+        "sub": "anzughosen",
+        "subLabel": "Anzughosen"
+      },
+      {
+        "id": "m-anzughose-m-schwarz-03",
+        "name": "Anzughose Slim Fit",
+        "cat": "bottoms",
+        "price": 59.99,
+        "color": "#1f1f1f",
+        "img": "assets/web/men/Anzughose/anzughose-m-schwarz-03.png",
+        "imgFig": "assets/fig/men/Anzughose/anzughose-m-schwarz-03.png",
+        "url": "https://shop.mango.com/de/de/p/herren/hosen/anzug/anzughose-boston-regular-fit/27041220/56/00",
+        "colorname": "schwarz",
+        "style": "office",
+        "fit": {
+          "h": 38,
+          "top": 42,
+          "cx": 50.5
+        },
+        "sub": "anzughosen",
+        "subLabel": "Anzughosen"
+      },
+      {
+        "id": "m-anzughose-m-taupe-02",
+        "name": "Anzughose Regular Fit",
+        "cat": "bottoms",
+        "price": 59.99,
+        "color": "#b3a695",
+        "img": "assets/web/men/Anzughose/anzughose-m-taupe-02.png",
+        "imgFig": "assets/fig/men/Anzughose/anzughose-m-taupe-02.png",
+        "url": "https://shop.mango.com/de/de/p/herren/hosen/slim-fit/super-slim-fit-anzughose-aus-stretchstoff/37031367/08/00",
+        "colorname": "taupe",
+        "style": "office",
+        "fit": {
+          "h": 40,
+          "top": 43,
+          "cx": 50
+        },
+        "sub": "anzughosen",
+        "subLabel": "Anzughosen"
+      },
+      {
+        "id": "m-anzughose-m-wei-01",
+        "name": "Anzughose aus Leinen-Mix",
+        "cat": "bottoms",
+        "price": 69.99,
+        "color": "#f3f1ec",
+        "img": "assets/web/men/Anzughose/anzughose-m-weiß-01.png",
+        "imgFig": "assets/fig/men/Anzughose/anzughose-m-weiß-01.png",
+        "url": "https://shop.mango.com/de/de/p/herren/hosen/bundfalten/slim-fit-anzughose-aus-lyocell-leinen-mix/37061358/01/00",
+        "colorname": "weiß",
+        "style": "office",
+        "fit": {
+          "h": 39,
+          "cx": 50.5,
+          "top": 45
+        },
+        "sub": "anzughosen",
+        "subLabel": "Anzughosen"
+      },
+      {
+        "id": "m-jeans-m-dunkelblau-03",
+        "name": "Straight-Fit Jeans",
+        "cat": "bottoms",
+        "price": 49.99,
+        "color": "#2b3a52",
+        "img": "assets/web/men/Jeans/jeans-m-dunkelblau-03.png",
+        "imgFig": "assets/fig/men/Jeans/jeans-m-dunkelblau-03.png",
+        "url": "https://shop.mango.com/de/de/p/herren/jeans/straight/straight-fit-jeans-moby-mit-dunkler-waschung/27041249/TO/00",
+        "colorname": "dunkelblau",
+        "style": "casual",
+        "fit": {
+          "h": 42,
+          "top": 43.5,
+          "cx": 50.5
+        },
+        "sub": "jeans",
+        "subLabel": "Jeans"
+      },
+      {
+        "id": "m-jeans-m-grau-04",
+        "name": "Straight-Fit Jeans",
+        "cat": "bottoms",
+        "price": 49.99,
+        "color": "#9a9a9a",
+        "img": "assets/web/men/Jeans/jeans-m-grau-04.png",
+        "imgFig": "assets/fig/men/Jeans/jeans-m-grau-04.png",
+        "url": "https://shop.mango.com/de/de/p/herren/jeans/straight/straight-fit-jeans-moby/27041250/TG/00",
+        "colorname": "grau",
+        "style": "casual",
+        "fit": {
+          "h": 40,
+          "cx": 50.5,
+          "top": 44
+        },
+        "sub": "jeans",
+        "subLabel": "Jeans"
+      },
+      {
+        "id": "m-jeans-m-hellblau-02",
+        "name": "Tapered Jeans",
+        "cat": "bottoms",
+        "price": 49.99,
+        "color": "#a9c3dc",
+        "img": "assets/web/men/Jeans/jeans-m-hellblau-02.png",
+        "imgFig": "assets/fig/men/Jeans/jeans-m-hellblau-02.png",
+        "url": "https://shop.mango.com/de/de/p/herren/jeans/tapered/ben-jeans-im-cropped-tapered-fit/27081188/TC/00",
+        "colorname": "hellblau",
+        "style": "casual",
+        "fit": {
+          "h": 40,
+          "top": 44.5,
+          "cx": 50
+        },
+        "sub": "jeans",
+        "subLabel": "Jeans"
+      },
+      {
+        "id": "m-jeans-m-washedblau-05",
+        "name": "Regular Jeans",
+        "cat": "bottoms",
+        "price": 49.99,
+        "color": "#6f87a3",
+        "img": "assets/web/men/Jeans/jeans-m-washedblau-05.png",
+        "imgFig": "assets/fig/men/Jeans/jeans-m-washedblau-05.png",
+        "url": "https://shop.mango.com/de/de/p/herren/jeans/regular/jeans-100-baumwolle-relaxed-fit/27059207/TO/00",
+        "colorname": "washed-blau",
+        "style": "casual",
+        "fit": {
+          "h": 40,
+          "top": 44
+        },
+        "sub": "jeans",
+        "subLabel": "Jeans"
+      },
+      {
+        "id": "m-jeans-m-wei-01",
+        "name": "Straight-Fit Jeans",
+        "cat": "bottoms",
+        "price": 49.99,
+        "color": "#f3f1ec",
+        "img": "assets/web/men/Jeans/jeans-m-weiß-01.png",
+        "imgFig": "assets/fig/men/Jeans/jeans-m-weiß-01.png",
+        "url": "https://shop.mango.com/de/de/p/herren/jeans/straight/straight-fit-jeans-moby/27061247/05/00",
+        "colorname": "weiß",
+        "style": "casual",
+        "fit": {
+          "h": 38,
+          "cx": 50.5,
+          "top": 44.5
+        },
+        "sub": "jeans",
+        "subLabel": "Jeans"
+      },
+      {
+        "id": "m-shorts-m-beige-05",
+        "name": "Chino-Shorts",
+        "cat": "bottoms",
+        "price": 49.99,
+        "color": "#d8c7a8",
+        "img": "assets/web/men/Shorts/shorts-m-beige-05.png",
+        "imgFig": "assets/fig/men/Shorts/shorts-m-beige-05.png",
+        "url": "https://shop.mango.com/de/de/p/herren/bermudashort/leinen-bermudashorts/regular-fit-bermudas-aus-100--leinen/37071334/35/00",
+        "colorname": "beige",
+        "style": "casual",
+        "fit": {
+          "h": 21,
+          "top": 41
+        },
+        "sub": "shorts",
+        "subLabel": "Shorts"
+      },
+      {
+        "id": "m-shorts-m-braun-01",
+        "name": "Chino-Shorts",
+        "cat": "bottoms",
+        "price": 49.99,
+        "color": "#7a5a40",
+        "img": "assets/web/men/Shorts/shorts-m-braun-01.png",
+        "imgFig": "assets/fig/men/Shorts/shorts-m-braun-01.png",
+        "url": "https://shop.mango.com/de/de/p/herren/bermudashort/leinen-bermudashorts/slim-fit-bermudashorts-aus-100--leinen/27066709/32/00",
+        "colorname": "braun",
+        "style": "casual",
+        "fit": {
+          "h": 20,
+          "top": 41,
+          "cx": 50
+        },
+        "sub": "shorts",
+        "subLabel": "Shorts"
+      },
+      {
+        "id": "m-shorts-m-hellblau-03",
+        "name": "Jeansshorts",
+        "cat": "bottoms",
+        "price": 45.99,
+        "color": "#a9c3dc",
+        "img": "assets/web/men/Shorts/shorts-m-hellblau-03.png",
+        "imgFig": "assets/fig/men/Shorts/shorts-m-hellblau-03.png",
+        "url": "https://shop.mango.com/de/de/p/herren/bermudashort/jeans-bermudashorts/slim-fit-jeans-bermudashorts/37071411/TC/00",
+        "colorname": "hellblau",
+        "style": "casual",
+        "fit": {
+          "h": 20,
+          "top": 41.5,
+          "cx": 50
+        },
+        "sub": "shorts",
+        "subLabel": "Shorts"
+      },
+      {
+        "id": "m-shorts-m-olive-02",
+        "name": "Jogger-Shorts",
+        "cat": "bottoms",
+        "price": 39.99,
+        "color": "#6f6f48",
+        "img": "assets/web/men/Shorts/shorts-m-olive-02.png",
+        "imgFig": "assets/fig/men/Shorts/shorts-m-olive-02.png",
+        "url": "https://shop.mango.com/de/de/p/herren/bermudashort/strukturierte-bermudashorts-aus-baumwolle-mit-kordelzug/27087896/48/00",
+        "colorname": "olive",
+        "style": "casual",
+        "fit": {
+          "h": 21,
+          "top": 41,
+          "cx": 50.5
+        },
+        "sub": "shorts",
+        "subLabel": "Shorts"
+      },
+      {
+        "id": "m-shorts-m-schwarz-04",
+        "name": "Chino-Shorts",
+        "cat": "bottoms",
+        "price": 49.99,
+        "color": "#1f1f1f",
+        "img": "assets/web/men/Shorts/shorts-m-schwarz-04.png",
+        "imgFig": "assets/fig/men/Shorts/shorts-m-schwarz-04.png",
+        "url": "https://shop.mango.com/de/de/p/herren/bermudashort/leinen-bermudashorts/regular-fit-bermudas-aus-100--leinen/37071334/56/00",
+        "colorname": "schwarz",
+        "style": "casual",
+        "fit": {
+          "h": 21,
+          "top": 41.5,
+          "cx": 50.5
+        },
+        "sub": "shorts",
+        "subLabel": "Shorts"
+      }
+    ],
+    "tops": [
+      {
+        "id": "m-hemd-m-hellblau-02",
+        "name": "Hemd mit Stehkragen",
+        "cat": "tops",
+        "price": 59.99,
+        "color": "#a9c3dc",
+        "img": "assets/web/men/Hemd/hemd-m-hellblau-02.png",
+        "imgFig": "assets/fig/men/Hemd/hemd-m-hellblau-02.png",
+        "url": "https://shop.mango.com/de/de/p/herren/hemden/leinen/regular-fit-hemd-aus-100--leinen/37031400/51/00",
+        "colorname": "hellblau",
+        "style": "office",
+        "fit": {
+          "w": 66,
+          "top": 12.5,
+          "cx": 50
+        },
+        "sub": "hemden",
+        "subLabel": "Hemden"
+      },
+      {
+        "id": "m-hemd-m-rosa-04",
+        "name": "Hemd Regular Fit",
+        "cat": "tops",
+        "price": 59.99,
+        "color": "#e3b6bd",
+        "img": "assets/web/men/Hemd/hemd-m-rosa-04.png",
+        "imgFig": "assets/fig/men/Hemd/hemd-m-rosa-04.png",
+        "url": "https://shop.mango.com/de/de/p/herren/hemden/leinen/regular-fit-hemd-aus-leinen-lyocell/37081352/81/00",
+        "colorname": "rosa",
+        "style": "office",
+        "fit": {
+          "w": 65,
+          "cx": 50.5,
+          "top": 12.5
+        },
+        "sub": "hemden",
+        "subLabel": "Hemden"
+      },
+      {
+        "id": "m-hemd-m-schwarz-05",
+        "name": "Leinenhemd",
+        "cat": "tops",
+        "price": 49.99,
+        "color": "#1f1f1f",
+        "img": "assets/web/men/Hemd/hemd-m-schwarz-05.png",
+        "imgFig": "assets/fig/men/Hemd/hemd-m-schwarz-05.png",
+        "url": "https://shop.mango.com/de/de/p/herren/hemden/leinen/regular-fit-hemd-aus-leinen-lyocell/37081352/56/00",
+        "colorname": "schwarz",
+        "style": "office",
+        "fit": {
+          "w": 62,
+          "cx": 50.5,
+          "top": 12.5
+        },
+        "sub": "hemden",
+        "subLabel": "Hemden"
+      },
+      {
+        "id": "m-hemd-m-taupe-03",
+        "name": "Leinenhemd mit Stehkragen",
+        "cat": "tops",
+        "price": 59.99,
+        "color": "#b3a695",
+        "img": "assets/web/men/Hemd/hemd-m-taupe-03.png",
+        "imgFig": "assets/fig/men/Hemd/hemd-m-taupe-03.png",
+        "url": "https://shop.mango.com/de/de/p/herren/hemden/leinen/regular-fit-hemd-aus-100--leinen/27085939/07/00",
+        "colorname": "taupe",
+        "style": "office",
+        "fit": {
+          "w": 66,
+          "cx": 49.5,
+          "top": 12.5
+        },
+        "sub": "hemden",
+        "subLabel": "Hemden"
+      },
+      {
+        "id": "m-hemd-m-wei-01",
+        "name": "Hemd Regular Fit",
+        "cat": "tops",
+        "price": 59.99,
+        "color": "#f3f1ec",
+        "img": "assets/web/men/Hemd/hemd-m-weiß-01.png",
+        "imgFig": "assets/fig/men/Hemd/hemd-m-weiß-01.png",
+        "url": "https://shop.mango.com/de/de/p/herren/hemden/leinen/regular-fit-hemd-aus-100--leinen/37031400/01/00",
+        "colorname": "weiß",
+        "style": "office",
+        "fit": {
+          "w": 65,
+          "top": 12.5
+        },
+        "sub": "hemden",
+        "subLabel": "Hemden"
+      },
+      {
+        "id": "m-tshirt-m-dunkelblau-02",
+        "name": "Basic T-Shirt",
+        "cat": "tops",
+        "price": 29.99,
+        "color": "#2b3a52",
+        "img": "assets/web/men/T-Shirt/tshirt-m-dunkelblau-02.png",
+        "imgFig": "assets/fig/men/T-Shirt/tshirt-m-dunkelblau-02.png",
+        "url": "https://shop.mango.com/de/de/p/herren/t-shirts/basics/regular-fit-t-shirt-aus-100--baumwolle/27045964/56/00",
+        "colorname": "dunkelblau",
+        "style": "casual",
+        "fit": {
+          "w": 60,
+          "top": 13.5
+        },
+        "sub": "tshirts",
+        "subLabel": "T-Shirts"
+      },
+      {
+        "id": "m-tshirt-m-hellblau-03",
+        "name": "Basic T-Shirt",
+        "cat": "tops",
+        "price": 39.99,
+        "color": "#a9c3dc",
+        "img": "assets/web/men/T-Shirt/tshirt-m-hellblau-03.png",
+        "imgFig": "assets/fig/men/T-Shirt/tshirt-m-hellblau-03.png",
+        "url": "https://shop.mango.com/de/de/p/herren/t-shirts/basics/slim-fit-leinenmischung-t-shirt/37011435/50/00",
+        "colorname": "hellblau",
+        "style": "casual",
+        "fit": {
+          "w": 60,
+          "top": 13
+        },
+        "sub": "tshirts",
+        "subLabel": "T-Shirts"
+      },
+      {
+        "id": "m-tshirt-m-rot-01",
+        "name": "Basic T-Shirt",
+        "cat": "tops",
+        "price": 25.99,
+        "color": "#9d2b27",
+        "img": "assets/web/men/T-Shirt/tshirt-m-rot-01.png",
+        "imgFig": "assets/fig/men/T-Shirt/tshirt-m-rot-01.png",
+        "url": "https://shop.mango.com/de/de/p/herren/t-shirts/basics/regular-fit-t-shirt-aus-100--baumwolle/27041264/75/00",
+        "colorname": "rot",
+        "style": "casual",
+        "fit": {
+          "w": 61,
+          "top": 14
+        },
+        "sub": "tshirts",
+        "subLabel": "T-Shirts"
+      },
+      {
+        "id": "m-tshirt-m-schwarz-05",
+        "name": "Feinstrick-Shirt",
+        "cat": "tops",
+        "price": 29.99,
+        "color": "#1f1f1f",
+        "img": "assets/web/men/T-Shirt/tshirt-m-schwarz-05.png",
+        "imgFig": "assets/fig/men/T-Shirt/tshirt-m-schwarz-05.png",
+        "url": "https://shop.mango.com/de/de/p/herren/t-shirts/basics/feinstrick-t-shirt-aus-100--baumwolle/37031439/99/00",
+        "colorname": "schwarz",
+        "style": "casual",
+        "fit": {
+          "w": 62,
+          "top": 14
+        },
+        "sub": "tshirts",
+        "subLabel": "T-Shirts"
+      },
+      {
+        "id": "m-tshirt-m-wei-04",
+        "name": "Basic T-Shirt",
+        "cat": "tops",
+        "price": 29.99,
+        "color": "#f3f1ec",
+        "img": "assets/web/men/T-Shirt/tshirt-m-weiß-04.png",
+        "imgFig": "assets/fig/men/T-Shirt/tshirt-m-weiß-04.png",
+        "url": "https://shop.mango.com/de/de/p/herren/t-shirts/basics/regular-fit-t-shirt-aus-100--baumwolle/27045964/01/00",
+        "colorname": "weiß",
+        "style": "casual",
+        "fit": {
+          "w": 63,
+          "top": 13.5,
+          "cx": 50.5
+        },
+        "sub": "tshirts",
+        "subLabel": "T-Shirts"
+      },
+      {
+        "id": "m-tanktop-m-schwarz-01",
+        "name": "Tanktop",
+        "cat": "tops",
+        "price": 19.99,
+        "color": "#1f1f1f",
+        "img": "assets/web/men/Tanktop/tanktop-m-schwarz-01.png",
+        "imgFig": "assets/fig/men/Tanktop/tanktop-m-schwarz-01.png",
+        "url": "https://shop.mango.com/de/de/p/herren/t-shirts/slim-fit/slim-fit-baumwolltragerhemd/37011438/99/00",
+        "colorname": "schwarz",
+        "style": "casual",
+        "fit": {
+          "w": 32,
+          "cx": 50,
+          "top": 14
+        },
+        "sub": "tanktops",
+        "subLabel": "Tanktops"
+      },
+      {
+        "id": "m-tanktop-m-wei-02",
+        "name": "Ripp-Tanktop",
+        "cat": "tops",
+        "price": 19.99,
+        "color": "#f3f1ec",
+        "img": "assets/web/men/Tanktop/tanktop-m-weiß-02.png",
+        "imgFig": "assets/fig/men/Tanktop/tanktop-m-weiß-02.png",
+        "url": "https://shop.mango.com/de/de/p/herren/t-shirts/slim-fit/slim-fit-baumwolltragerhemd/37011438/02/00",
+        "colorname": "weiß",
+        "style": "casual",
+        "fit": {
+          "w": 31,
+          "cx": 50,
+          "top": 14
+        },
+        "sub": "tanktops",
+        "subLabel": "Tanktops"
+      },
+      {
+        "id": "m-pullover-m-beige-05",
+        "name": "Zipper",
+        "cat": "tops",
+        "price": 45.99,
+        "color": "#d8c7a8",
+        "img": "assets/web/men/Pullover/pullover-m-beige-05.png",
+        "imgFig": "assets/fig/men/Pullover/pullover-m-beige-05.png",
+        "url": "https://shop.mango.com/de/de/p/herren/pullover-und-strickjacken/pullover/gerippter-pullover-mit-zip-kragen/27041283/08/00",
+        "colorname": "beige",
+        "style": "casual",
+        "fit": {
+          "w": 69,
+          "cx": 50,
+          "top": 12.5
+        },
+        "sub": "pullover",
+        "subLabel": "Pullover"
+      },
+      {
+        "id": "m-pullover-m-braun-01",
+        "name": "Zipper",
+        "cat": "tops",
+        "price": 45.99,
+        "color": "#7a5a40",
+        "img": "assets/web/men/Pullover/pullover-m-braun-01.png",
+        "imgFig": "assets/fig/men/Pullover/pullover-m-braun-01.png",
+        "url": "https://shop.mango.com/de/de/p/herren/pullover-und-strickjacken/pullover/gerippter-pullover-mit-zip-kragen/27041283/32/00",
+        "colorname": "braun",
+        "style": "casual",
+        "fit": {
+          "w": 64,
+          "cx": 50.5,
+          "top": 12.5
+        },
+        "sub": "pullover",
+        "subLabel": "Pullover"
+      },
+      {
+        "id": "m-pullover-m-dunkelblau-04",
+        "name": "Rundhalspullover",
+        "cat": "tops",
+        "price": 39.99,
+        "color": "#2b3a52",
+        "img": "assets/web/men/Pullover/pullover-m-dunkelblau-04.png",
+        "imgFig": "assets/fig/men/Pullover/pullover-m-dunkelblau-04.png",
+        "url": "https://shop.mango.com/de/de/p/herren/pullover-und-strickjacken/basics/strickpullover-aus-baumwolle-mit-mikrostruktur/27041281/56/00",
+        "colorname": "dunkelblau",
+        "style": "casual",
+        "fit": {
+          "w": 61,
+          "top": 13.5,
+          "cx": 50.5
+        },
+        "sub": "pullover",
+        "subLabel": "Pullover"
+      },
+      {
+        "id": "m-pullover-m-grau-03",
+        "name": "Grobstrickpullover",
+        "cat": "tops",
+        "price": 59.99,
+        "color": "#9a9a9a",
+        "img": "assets/web/men/Pullover/pullover-m-grau-03.png",
+        "imgFig": "assets/fig/men/Pullover/pullover-m-grau-03.png",
+        "url": "https://shop.mango.com/de/de/p/herren/pullover-und-strickjacken/pullover/gerippter-pullover-aus-wollgemisch/27041252/96/00",
+        "colorname": "grau",
+        "style": "casual",
+        "fit": {
+          "w": 57
+        },
+        "sub": "pullover",
+        "subLabel": "Pullover"
+      },
+      {
+        "id": "m-pullover-m-olive-02",
+        "name": "Zipper",
+        "cat": "tops",
+        "price": 45.99,
+        "color": "#6f6f48",
+        "img": "assets/web/men/Pullover/pullover-m-olive-02.png",
+        "imgFig": "assets/fig/men/Pullover/pullover-m-olive-02.png",
+        "url": "https://shop.mango.com/de/de/p/herren/pullover-und-strickjacken/pullover/gerippter-pullover-mit-zip-kragen/27041283/36/00",
+        "colorname": "olive",
+        "style": "casual",
+        "fit": {
+          "w": 63,
+          "cx": 50.5,
+          "top": 12.5
+        },
+        "sub": "pullover",
+        "subLabel": "Pullover"
+      }
+    ],
+    "outer": [
+      {
+        "id": "m-jacke-m-beige-04",
+        "name": "Overshirt-Jacke",
+        "cat": "outer",
+        "price": 59.99,
+        "color": "#d8c7a8",
+        "img": "assets/web/men/Jacke/jacke-m-beige-04.png",
+        "imgFig": "assets/fig/men/Jacke/jacke-m-beige-04.png",
+        "url": "https://shop.mango.com/de/de/p/herren/jacken/bikerjacken/jeansjacke-aus-100--baumwolle-mit-taschen/27084426/05/00",
+        "colorname": "beige",
+        "style": "casual",
+        "fit": {
+          "w": 66,
+          "top": 12.5
+        },
+        "sub": "jacken",
+        "subLabel": "Jacken"
+      },
+      {
+        "id": "m-jacke-m-braun-05",
+        "name": "Lederjacke",
+        "cat": "outer",
+        "price": 79.99,
+        "color": "#7a5a40",
+        "img": "assets/web/men/Jacke/jacke-m-braun-05.png",
+        "imgFig": "assets/fig/men/Jacke/jacke-m-braun-05.png",
+        "url": "https://shop.mango.com/de/de/p/herren/jacken/jacken/jacke-mit-ledereffekt-und-taschen/27071173/30/00",
+        "colorname": "braun",
+        "style": "casual",
+        "fit": {
+          "w": 64
+        },
+        "sub": "jacken",
+        "subLabel": "Jacken"
+      },
+      {
+        "id": "m-jacke-m-dunkelblau-02",
+        "name": "Blouson mit Zipper",
+        "cat": "outer",
+        "price": 79.99,
+        "color": "#2b3a52",
+        "img": "assets/web/men/Jacke/jacke-m-dunkelblau-02.png",
+        "imgFig": "assets/fig/men/Jacke/jacke-m-dunkelblau-02.png",
+        "url": "https://shop.mango.com/de/de/p/herren/jacken/jacken/modal-jacke-mit-reißverschluss/37031333/56/00",
+        "colorname": "dunkelblau",
+        "style": "casual",
+        "fit": {
+          "w": 63,
+          "top": 12,
+          "cx": 50.5
+        },
+        "sub": "jacken",
+        "subLabel": "Jacken"
+      },
+      {
+        "id": "m-jacke-m-olive-01",
+        "name": "Field-Jacket",
+        "cat": "outer",
+        "price": 99.99,
+        "color": "#6f6f48",
+        "img": "assets/web/men/Jacke/jacke-m-olive-01.png",
+        "imgFig": "assets/fig/men/Jacke/jacke-m-olive-01.png",
+        "url": "https://shop.mango.com/de/de/p/herren/jacken/jacken/jacke-aus-100--leinen-mit-taschen/27045930/35/00",
+        "colorname": "olive",
+        "style": "casual",
+        "fit": {
+          "w": 75,
+          "top": 12.5
+        },
+        "sub": "jacken",
+        "subLabel": "Jacken"
+      },
+      {
+        "id": "m-jacke-m-schwarz-03",
+        "name": "Lederjacke",
+        "cat": "outer",
+        "price": 199.99,
+        "color": "#1f1f1f",
+        "img": "assets/web/men/Jacke/jacke-m-schwarz-03.png",
+        "imgFig": "assets/fig/men/Jacke/jacke-m-schwarz-03.png",
+        "url": "https://shop.mango.com/de/de/p/herren/jacken/bikerjacken/jacke-aus-100--leder-mit-taschen/27081175/99/00",
+        "colorname": "schwarz",
+        "style": "casual",
+        "fit": {
+          "w": 67
+        },
+        "sub": "jacken",
+        "subLabel": "Jacken"
+      }
+    ]
+  }
+}
